@@ -1,1 +1,1 @@
-simplecrypt
+simple-crypt
